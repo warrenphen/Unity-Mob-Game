@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d95c4e2db58c5c74890e55c8758fc656
+labels:
+- Oriented
+- Object
+- Base
+- Code
+- Utility
+- Level
+- Experience
+- Mana
+- Health
+- Customize
+- Customization
+- Bar
+- Game
+- Simple
+- Visual
+- Incriment
+- GUI
+- System
+- GameBar
+- Scroll
+TextScriptImporter:
+  userData: 

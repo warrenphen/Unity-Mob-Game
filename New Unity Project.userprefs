@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerHealth.cs">
+    <Files>
+      <File FileName="New Unity Project.sln" Line="46" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="23" Column="41" />
+      <File FileName="Assets\Done\Done_Scripts\Done_Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameBarCreationSystem\readme.txt" Line="1" Column="1" />
+      <File FileName="Assets\playerHealth.cs" Line="27" Column="1" />
+      <File FileName="Assets\Scripts\changeForm.cs" Line="9" Column="2" />
+      <File FileName="Assets\Sound.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
